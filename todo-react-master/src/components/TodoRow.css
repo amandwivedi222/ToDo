@@ -1,0 +1,29 @@
+.todo-row {
+    display: flex;
+    /* justify-items: space-between; */
+    align-items: center;
+    margin: 10px;
+    justify-content: space-between;
+    font-size: 20px;
+
+  }
+
+  .left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+  }
+  
+  .todo-row:hover .button {
+    display: inline-block;
+  }
+  
+  .circle-button {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+  }
+  

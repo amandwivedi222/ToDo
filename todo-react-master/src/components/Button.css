@@ -1,0 +1,24 @@
+.button.big {
+    padding: 10px 16px;
+    border: none;
+    cursor: pointer;
+    background-color: #3cb03c;
+    color:white;
+    border-radius: 6px;
+    margin: 2px;
+    text-align: center;
+    font-size: medium;
+  }
+  
+  .button.small {
+    padding: 3px 8px;
+    border: none;
+    cursor: pointer;
+    background-color: #3cb03c;
+    color:white;
+    border-radius: 6px;
+    margin: 2px;
+    text-align: center;
+    font-size: small;
+  }
+  
